@@ -4,7 +4,7 @@
 Syntax highlighted code block
 printf("Hello world!");
 
-# [博客](http://)
+# [博客](http://www.baidu.com)
 ##[项目](http://)
 ### [源码](http://)
 ```
