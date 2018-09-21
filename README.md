@@ -1,7 +1,6 @@
 ## Welcome to My Pages
 
 ```c
-Syntax highlighted code block
 int main()
 {
 printf("Hello world!");
