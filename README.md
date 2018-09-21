@@ -2,7 +2,10 @@
 
 ```c
 Syntax highlighted code block
+int main()
+{
 printf("Hello world!");
+}
 ```
 #[博客](http://www.baidu.com/)
 ##[项目]()
